@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: Gardishyan
+    given-names: Rafayel
+title: "A Better Light Candidate Generation Algorithm for ReSTIR Ray Tracing Using an Acceleration Structure to Identify Relevant Lights"
+version: 0.1.0
+date-released: 2025-06-27
+references:
+  - type: thesis
+    authors:
+     - family-names: Gardishyan
+       given-names: Rafayel
+    title: "A Better Light Candidate Generation Algorithm for ReSTIR Ray Tracing Using an Acceleration Structure to Identify Relevant Lights"
+    thesis-type: BSc
+    year: 2025
+    department: Faculty of Electrical Engineering, Mathematics and Computer Science
+    institution:
+      name: "Delft University of Technology"
+      city: Delft
+      country: NL
+    database: TU Delft Repository
+    url: https://repository.tudelft.nl/...

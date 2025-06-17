@@ -25,6 +25,7 @@ Models:
 Dependencies:
 - The SDL2 library; [Installation Guide](https://wiki.libsdl.org/SDL2/Installation)
 - Intel® embree; [Official Site](https://www.embree.org/)
+- Make sure OpenMP is in the build path
 - All other used libraries are bundled
 
 Building:

@@ -7,7 +7,7 @@
 ![Headline Image](img/headlinegraphic.png)
 *Render of the Night Cityscape scene. Comparison of the first frame between the original ReSTIR paper, our method and a reference render. Rendered with $M=23$, *1* sample per pixel*
 
-This thesis is available at http://repository.tudelft.nl/ **not yet published**
+This thesis is available at https://repository.tudelft.nl/record/uuid:66052189-5799-4815-b531-16ec4cc173ea
 
 #### Abstract
 
